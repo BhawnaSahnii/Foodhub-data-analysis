@@ -2,11 +2,11 @@
 
 An exploratory data analysis project for a food aggregator company to understand customer ordering behavior, restaurant demand, and cuisine preferences to improve customer experience and business operations.
 
-## 📋 Project Overview
+## Project Overview
 
 This project analyzes FoodHub's order data to extract actionable insights about customer preferences, restaurant performance, delivery times, and revenue patterns. The analysis helps the company make data-driven decisions to enhance their service and optimize operations.
 
-## 🎯 Business Problem
+## Business Problem
 
 FoodHub is a food aggregator company that connects customers with various restaurants. To improve their business and customer experience, they need to understand:
 - Which restaurants are most popular?
@@ -15,7 +15,7 @@ FoodHub is a food aggregator company that connects customers with various restau
 - What factors influence customer ratings?
 - When do peak ordering hours occur?
 
-## 📊 Dataset
+## Dataset
 
 **File:** `foodhub_order.csv`
 
@@ -28,7 +28,7 @@ The dataset contains order-level information including:
 - Food preparation time
 - Delivery time
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3.x**
 - **Libraries:**
@@ -38,7 +38,7 @@ The dataset contains order-level information including:
   - seaborn - Statistical data visualization
   - jupyter notebook - Interactive development environment
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Foodhub-data-analysis/
@@ -49,7 +49,7 @@ Foodhub-data-analysis/
 └── .gitignore                         # Git ignore file
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -72,7 +72,7 @@ jupyter notebook
 
 3. Open `Learner_Notebook_Full_Code.ipynb` and run all cells
 
-## 🔍 Analysis Approach
+## Analysis Approach
 
 1. **Data Understanding**
    - Import and inspect the dataset
@@ -96,7 +96,7 @@ jupyter notebook
    - Strategies to improve customer experience
    - Optimization opportunities
 
-## 📈 Key Questions Answered
+## Key Questions Answered
 
 - What are the top-performing restaurants?
 - Which cuisines are most popular among customers?
@@ -105,7 +105,7 @@ jupyter notebook
 - Are there specific days with higher order volumes?
 - What factors influence customer ratings?
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 - Conducting comprehensive exploratory data analysis
 - Creating meaningful visualizations for business insights
@@ -113,16 +113,11 @@ jupyter notebook
 - Translating data findings into business recommendations
 - Working with real-world food delivery data
 
-## 👤 Author
-
-**Bhawna Sahni**
-- GitHub: [@BhawnaSahnii](https://github.com/BhawnaSahnii)
-
-## 📝 License
+## License
 
 This project is open source and available for educational purposes.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 This project was completed as part of the **Data Science and Business Analytics** program offered by **Great Learning** in collaboration with **The University of Texas at Austin**.
 
